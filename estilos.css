@@ -1,14 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+    padding: 20px;
+}
+
 h1 {
     color: navy;
     font-size: 2em;
+    text-align: center;
 }
 
 p {
     color: #555;
     font-size: 1.2em;
+    line-height: 1.6;
 }
 
 img {
     width: 300px;
     border: 2px solid #ccc;
+    display: block;
+    margin: 20px auto;
 }
