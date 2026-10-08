@@ -1,0 +1,14 @@
+h1 {
+    color: navy;
+    font-size: 2em;
+}
+
+p {
+    color: #555;
+    font-size: 1.2em;
+}
+
+img {
+    width: 300px;
+    border: 2px solid #ccc;
+}
